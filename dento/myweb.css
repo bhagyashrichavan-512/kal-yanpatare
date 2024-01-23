@@ -1,0 +1,203 @@
+
+.our_services{
+background-image: url('https://preview.colorlib.com/theme/dento/img/bg-img/x13.jpg.pagespeed.ic.3xZ-9fqfaO.webp&quot;');
+width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*<Dento>*/
+.heder_part{
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #cae8ca;
+z-index: 9999;
+  border: 1px solid #4CAF50;
+}
+.navbar1{
+	/*position: fixed;*/
+	/*position: sticky;*/
+	/*position: static;*/
+	top: 0px;
+	/*padding-top: 0px;*/
+	width: 100%;
+	/*background-color: white;*/
+}
+.social_media li{
+	display: inline-block;
+	list-style-type: none;
+	margin-left: 10px;
+}
+
+
+.book:hover {
+	background-color: white;
+	color: blue;
+
+}
+
+.frist_page{
+background-color: rgba(0,0,0,0.6);top:0;bottom:0px;right:0px;left:0px;
+}
+.our_services{
+background-image: url('https://preview.colorlib.com/theme/dento/img/bg-img/x13.jpg.pagespeed.ic.3xZ-9fqfaO.webp&quot;');
+background-size: 100% 100%;
+height: auto;
+}
+.our_services1{
+	background-color: rgba(0,0,0,0.7);top:0;bottom:0px;right:0px;left:0px;
+
+}
+.bank_from{
+	background-image: url('https://preview.colorlib.com/theme/dento/img/bg-img/x12.jpg.pagespeed.ic.xxtlPIASfi.webp&quot;');
+	background-size: 100% 100%;
+	height: auto;
+}
+.bank_from1{
+	background-color: rgba(0,0,0,0.6);top:0;bottom:0px;right:0px;left:0px;
+}
+.button:hover{
+  opacity: 1;
+  right: 0;
+  background-color: white;
+  color: blue;
+}
+.images{
+	background-image: url('fst.png');
+background-size: 100% 100%;
+height: 280px;
+}
+.images2{
+	background-image: url('send.png');
+	background-size: 100% 100%;
+	height: 280px;
+}
+.images3{
+	background-image: url('thr.png');
+	background-size: 100% 100%;
+	height: 280px;
+}
+.text_data{
+margin-bottom:0px ;
+margin-top: 180px;
+background-color: rgba(0, 0, 0, 0.9);
+color: white;
+}
+.Dental {
+	background-image: url('https://w7.pngwing.com/pngs/490/489/png-transparent-medical-background-doctors-medical-see-a-doctor.png');
+
+}
+.Dental_color{
+	background-color: rgba(0,0,0,0.7);top:0;bottom:0px;right:0px;left:0px;
+}
+.card_news{
+	border: none;
+}
+.footer{
+	background-image: url('https://preview.colorlib.com/theme/dento/img/bg-img/x3.jpg.pagespeed.ic.LFIUg5Bby5.webp');
+	width: 100%;
+	height: auto;
+
+}
+.footer1{
+	background-color: rgba(0,0,0,0.7);top:0;bottom:0px;right:0px;left:0px;
+}
+.Copyright{
+	color: white;
+width: 100%;
+margin-left: 350px;
+font-weight: normal;
+font-size: 12px;
+}
+.text_fot{
+	position: relative;
+	left: 80px;
+}
+.font_size{
+	font-weight: normal;
+	font-style: italic;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+...........................................................Tvs ...................................................................................
+
+
+
+
+.head1 li{
+	display: inline-block;
+	list-style-type: none;
+	color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.......................................................................................................................................................................
